@@ -1,0 +1,33 @@
+{
+  "name": "average",
+  "version": "0.0.0",
+  "description": "Mathematical average. Sum of all values divided by the number of values provided.",
+  "main": "src/average.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bytespider/average"
+  },
+  "keywords": [
+    "math",
+    "average",
+    "mean"
+  ],
+  "author": {
+    "name": "Rob Griffiths",
+    "email": "rob@bytespider.eu",
+    "url": "http://bytespider.eu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bytespider/average/issues"
+  },
+  "devDependencies": {
+    "tap": "~0.4.8"
+  }
+}
