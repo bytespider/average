@@ -1,6 +1,6 @@
 {
   "name": "average",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Mathematical average. Sum of all values divided by the number of values provided.",
   "main": "src/average.js",
   "directories": {
@@ -28,6 +28,6 @@
     "url": "https://github.com/bytespider/average/issues"
   },
   "devDependencies": {
-    "tap": "~0.4.8"
+    "tap": "^14.11.0"
   }
 }
